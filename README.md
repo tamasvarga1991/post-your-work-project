@@ -16,11 +16,16 @@ This project analyzes bikeshare usage data from different cities and provides st
 
 Run the bikeshare_starter.py script and follow the prompts to select a city, month, and day.
 
-Features: 
+Features
+
 - Filter data by city
 - Filter data by month
 - Filter data by day
 - Display bikeshare statistics
+
+Known limitations
+
+The project currently supports a limited set of bikeshare data files.
 
 ## Contribution guidelines
 
