@@ -22,6 +22,7 @@ Features
 - Filter data by month
 - Filter data by day
 - Display bikeshare statistics
+- Display user travel statistics
 
 Known limitations
 
