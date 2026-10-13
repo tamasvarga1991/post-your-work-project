@@ -26,7 +26,7 @@ Features
 
 Known limitations
 
-The project currently supports a limited set of bikeshare data files.
+The project currently supports a limited set of bikeshare data files. Data availibility depends on provided datasets.
 
 ## Contribution guidelines
 
