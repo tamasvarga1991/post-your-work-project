@@ -7,21 +7,21 @@ This project analyzes bikeshare usage data from different cities and provides st
 
 ## Information about how to use your project
 
-This could include:
+### Requirements
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Python 3
+- Pandas
 
-## Contribution guidelines
+### Usage
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+Run the bikeshare_starter.py script and follow the prompts to select a city, month, and day.
+
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Programming for Data Science with Python Nanodegree Project
+
 
 ## Date created
 
-Include the date you created this project and README file.
+2026-10-13
